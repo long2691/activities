@@ -47,3 +47,8 @@ def average(data1,data2):
 print(name("Loc"))
 print(Average([1,2,3,4,5],))
 
+#git status 
+#git add .
+# git status
+# git commit -m "Description comment"
+# git push origin master
